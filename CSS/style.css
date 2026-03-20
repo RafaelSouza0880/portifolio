@@ -1,1 +1,19 @@
+body{
+    background-color: lightgray;
+}
 
+nav{
+    background-color: black;
+
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
